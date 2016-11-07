@@ -38,7 +38,7 @@ namespace Swisstalk.Platform.Bootstrapper
 			ScopeStorage scopeBlock = new ScopeStorage(CoreBlockIds.Scope);
 			CompletionTracker completionTrackerBlock = new CompletionTracker(CoreBlockIds.CompletionTracker, executorBlock);
 			AlarmClock alarmClockBlock = new AlarmClock(CoreBlockIds.AlarmClock, executorBlock);
-			MetaScriptEngine metaScriptEngine = new MetaScriptEngine(CoreBlockIds.Animation);
+			MetaScriptEngine metaScriptEngine = new MetaScriptEngine(CoreBlockIds.MetaScript);
 
 			_resolutionContext.Append(notificationBlock);
 			_resolutionContext.Append(executorBlock);

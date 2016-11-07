@@ -10,6 +10,6 @@ namespace Swisstalk.Platform.Bootstrapper
 		public static BlockId CompletionTracker = new BlockId("Core Completion Tracker Block Instance");
 		public static BlockId Executor = new BlockId("Core Executor Block Instance");
 		public static BlockId Scope = new BlockId("Core Scope Block Instance");
-		public static BlockId Animation = new BlockId("Animation Player Instance");
+		public static BlockId MetaScript = new BlockId("MetaScript Engine Instance");
     }
 }
