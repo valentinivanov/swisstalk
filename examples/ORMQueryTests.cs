@@ -5,7 +5,7 @@ using Swisstalk.ORM.Query;
 using Swisstalk.ORM.Transport;
 
 
-namespace Arbaloid.Tests
+namespace Swisstalk.Tests
 {
     public static class ORMQueryTests
     {

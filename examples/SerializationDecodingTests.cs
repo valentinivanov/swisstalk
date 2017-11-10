@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace Arbaloid.Tests
+namespace Swisstalk.Tests
 {
     public class SerializationDecodingTests
     {
