@@ -1,5 +1,0 @@
-The very first tool here should be project generator: 
-1. User selects list of blocks to add to the project
-2. User selects relative directory structure for the project (blocks, csproj file, sln file)
-3. User selects output directory
-4. User runs generator and gets project and solution files with desired directory structure in the output directory
